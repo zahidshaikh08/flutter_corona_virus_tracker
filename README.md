@@ -3,6 +3,6 @@
 <br />
 <br />
 
-[![Zahid Shaikh]
+By Zahid Shaikh
 <br />
 _Be prepared for **real** app development_
