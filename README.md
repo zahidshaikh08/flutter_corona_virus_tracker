@@ -1,12 +1,8 @@
-# Flutter States Rebuilder Tutorial
-
-### Learn from :point_right: [this post](https://resocoder.com/states-rebuilder) :point_left:.
-
-#### _Find more tutorials on [resocoder.com](https://resocoder.com)_
+# Flutter Corona Virus Tracker
 
 <br />
 <br />
 
-[![Reso Coder](https://resocoder.com/wp-content/uploads/2019/09/logo_with_text_signature.png)](https://resocoder.com)
+[![Zahid Shaikh]
 <br />
 _Be prepared for **real** app development_
